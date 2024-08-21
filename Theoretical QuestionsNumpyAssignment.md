@@ -1,3 +1,5 @@
+# Theoretical Questions
+
 # Q1. Explain the purpose and advantages of NumPy in scientific computing and data analysis. How does it enhance Python's capabilities for numerical operations?
 
 NumPy (Numerical Python) is a fundamental library for scientific computing and data analysis in Python. Its purpose and advantages can be summarized as follows:↳
